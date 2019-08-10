@@ -1,0 +1,37 @@
+* {
+  color: #4A4A4A;
+  margin: 0;
+  font-family: "Helvari", sans-serif;
+      }
+header {
+  background-color: #2C9AB7;
+}
+.title {
+  color: white;
+  padding: 6% 10% 0% 15%;
+  font-size: 4rem;
+}
+.rental {
+  color: white;
+  padding: 0% 55% 6% 15%;
+  font-size: 2rem;
+  font-weight: lighter;
+  font-style: italic;
+}
+nav {
+  background-color: #EBEBEB;
+  font-weight:bold;
+  padding: 2% 0% 2% 15%;
+}
+
+h3 {
+  font-size: 2rem;
+}
+a {
+  text-decoration: none;
+}
+#interesting {
+  color: #2C9AB7;
+}
+
+/*#80CCDF -- hex for CTA color */
