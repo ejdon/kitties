@@ -3,6 +3,11 @@
   margin: 0;
   font-family: "Helvari", sans-serif;
       }
+main {
+  padding: 4% 40% 6% 15%;
+  float: left;
+  overflow: auto;
+}
 header {
   background-color: #2C9AB7;
 }
@@ -25,13 +30,33 @@ nav {
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 22px;
 }
 a {
   text-decoration: none;
+  padding:0px 10px 0px 10px;
 }
 #interesting {
   color: #2C9AB7;
-}
+  line-height: 30px;
 
+}
+.sidebar {
+    position: absolute;
+    right: 0%;
+    width: 300px;
+    padding: 4% 15% 0% 10%;
+    overflow: auto;
+
+    }
+
+
+/*  position: absolute;
+  right: 0;
+  top: 0;
+  overflow: auto;
+  padding: 0% 15% 0% 70%;
+
+
+}
 /*#80CCDF -- hex for CTA color */
