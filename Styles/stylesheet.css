@@ -8,9 +8,8 @@ main {
   width: 65%;
   float: left;
   overflow: auto;
-  margin-top: 4%;
-  padding-left: 15%;
-  padding-right: 5%;
+  padding: 4% 5% 5% 15%
+
 }
 header {
   background-color: #2C9AB7;
@@ -73,7 +72,7 @@ a {
 
 .sidebar {
     width: 35%;
-    margin-top: 4%;
+    padding-top: 4%;
     padding-right: 15%;
     float: left;
       }
@@ -101,18 +100,16 @@ a {
   width: 80%;
   padding:10px 0px 12px 0px;
 }
-.footer {
-  text-align: center;
-  background-color: #393939;
-  width: 100%;
-  color: white;
-}
 
 .footer {
+  color: #FFFFFF;
   text-align: center;
   background-color: #393939;
+  clear: both;
   width: 100%;
-  color: white;
+  padding: 2% 0% 2% 0%;
+
 }
+
 
 /*footer color: #393939 */
