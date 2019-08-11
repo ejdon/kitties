@@ -2,11 +2,15 @@
   color: #4A4A4A;
   margin: 0;
   font-family: "Helvari", sans-serif;
+  box-sizing: border-box;
       }
 main {
-  padding: 4% 40% 6% 15%;
+  width: 60%;
   float: left;
   overflow: auto;
+  margin-top: 5%;
+  padding-left: 15%;
+  padding-right: 5%;
 }
 header {
   background-color: #2C9AB7;
@@ -30,7 +34,9 @@ nav {
 }
 
 h3 {
-  font-size: 22px;
+  font-size: 20px;
+  font-weight: bold;
+
 }
 a {
   text-decoration: none;
@@ -42,21 +48,42 @@ a {
 
 }
 .sidebar {
-    position: absolute;
-    right: 0%;
-    width: 300px;
-    padding: 4% 15% 0% 10%;
-    overflow: auto;
-
-    }
-
-
-/*  position: absolute;
-  right: 0;
-  top: 0;
-  overflow: auto;
-  padding: 0% 15% 0% 70%;
-
+    width: 40%;
+    margin-top: 5%;
+    padding-right: 15%;
+    float: left;
+      }
+.side-title {
+  font-size: 20px;
+  padding:15px 0px 12px 0px;
 
 }
-/*#80CCDF -- hex for CTA color */
+.content {
+  line-height: 25px;
+  font-size: 16px;
+  padding-bottom: 15px;
+}
+
+#sidebar-content {
+  font-size: 16px;
+  padding-top: 28px;
+
+}
+
+#cat-of-week {
+  margin-top: 2rem;
+}
+
+.sidebar-link {
+  color: #50B9D3;
+  margin-left: -10px;
+}
+
+#sidebar-image {
+  padding:10px 0px 12px 0px;
+}
+footer {
+  text-align: center;
+  background-color:
+}
+/*footer color: #393939 */
