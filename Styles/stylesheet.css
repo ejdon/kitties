@@ -65,6 +65,12 @@ a {
   font-size: 15px;
   padding:15px 0px 15px 0px;
 }
+
+#color-change {
+  color: #50B9D3;
+
+}
+
 .sidebar {
     width: 35%;
     margin-top: 4%;
@@ -95,9 +101,18 @@ a {
   width: 80%;
   padding:10px 0px 12px 0px;
 }
-footer {
+.footer {
   text-align: center;
-  background-color:
+  background-color: #393939;
+  width: 100%;
+  color: white;
+}
+
+.footer {
+  text-align: center;
+  background-color: #393939;
+  width: 100%;
+  color: white;
 }
 
 /*footer color: #393939 */
