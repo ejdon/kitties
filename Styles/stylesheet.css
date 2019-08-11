@@ -70,7 +70,7 @@ a {
   padding: 15px 0px 15px 0px;
 }
 
-#color-change {
+.color-change {
   color: #50B9D3;
 }
 
@@ -83,7 +83,7 @@ a {
 
 .side-title {
   font-size: 20px;
-  padding: 15px 0px 12px 0px;
+  padding: 10px 0px 0px 0px;
 }
 
 #sidebar-content {
@@ -105,8 +105,12 @@ a {
   padding: 10px 0px 12px 0px;
 }
 
+.sidebar-caption {
+  padding-bottom: 5%;
+}
+
 .footer {
-  color: #FFFFFF;
+  color: #EEEEEE;
   text-align: center;
   background-color: #393939;
   clear: both;
@@ -114,5 +118,22 @@ a {
   padding: 2% 0% 2% 0%;
 }
 
+.footer-link {
+  font-weight: bold;
+  padding: 0% 1% 0% 1%;
+}
 
-/*footer color: #393939 */
+#footer-content {
+  padding: 2% 36% 2% 36%;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+#footer-image {
+  padding-top: 3%;
+  width: 20%;
+}
+
+.footer-end {
+  padding-top: 3%;
+}
