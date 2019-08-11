@@ -46,7 +46,7 @@ a {
   padding: 0px 10px 0px 10px;
 }
 
-#interesting {
+.interesting {
   color: #2C9AB7;
   line-height: 30px;
 }
@@ -136,4 +136,8 @@ a {
 
 .footer-end {
   padding-top: 3%;
+}
+
+#whiskers {
+  font-weight: bold;
 }
