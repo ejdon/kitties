@@ -3,22 +3,25 @@
   margin: 0;
   font-family: "Helvari", sans-serif;
   box-sizing: border-box;
-      }
+}
+
 main {
   width: 65%;
   float: left;
   overflow: auto;
   padding: 4% 5% 5% 15%
-
 }
+
 header {
   background-color: #2C9AB7;
 }
+
 .title {
   color: white;
   padding: 6% 10% 0% 15%;
   font-size: 4rem;
 }
+
 .rental {
   color: white;
   padding: 0% 55% 6% 15%;
@@ -26,31 +29,32 @@ header {
   font-weight: lighter;
   font-style: italic;
 }
+
 nav {
   background-color: #EBEBEB;
-  font-weight:bold;
+  font-weight: bold;
   padding: 2% 0% 2% 15%;
 }
 
 h3 {
   font-size: 20px;
   font-weight: bold;
-
 }
+
 a {
   text-decoration: none;
-  padding:0px 10px 0px 10px;
+  padding: 0px 10px 0px 10px;
 }
+
 #interesting {
   color: #2C9AB7;
   line-height: 30px;
-
 }
 
 .content {
   line-height: 25px;
   font-size: 16px;
-  padding:15px 0px 15px 0px;
+  padding: 15px 0px 15px 0px;
 }
 
 .body-quote {
@@ -59,32 +63,32 @@ a {
   font-size: 22px;
   padding: 7% 0% 7% 0%;
 }
+
 .body-content {
   line-height: 25px;
   font-size: 15px;
-  padding:15px 0px 15px 0px;
+  padding: 15px 0px 15px 0px;
 }
 
 #color-change {
   color: #50B9D3;
-
 }
 
 .sidebar {
-    width: 35%;
-    padding-top: 4%;
-    padding-right: 15%;
-    float: left;
-      }
+  width: 35%;
+  padding-top: 4%;
+  padding-right: 15%;
+  float: left;
+}
+
 .side-title {
   font-size: 20px;
-  padding:15px 0px 12px 0px;
+  padding: 15px 0px 12px 0px;
 }
 
 #sidebar-content {
   font-size: 16px;
   padding-top: 28px;
-
 }
 
 #cat-of-week {
@@ -98,7 +102,7 @@ a {
 
 #sidebar-image {
   width: 80%;
-  padding:10px 0px 12px 0px;
+  padding: 10px 0px 12px 0px;
 }
 
 .footer {
@@ -108,7 +112,6 @@ a {
   clear: both;
   width: 100%;
   padding: 2% 0% 2% 0%;
-
 }
 
 
