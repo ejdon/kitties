@@ -58,10 +58,11 @@ a {
 }
 
 .body-quote {
-  color: #50B9D3;
+  color: #2FA0BC;
   line-height: 30px;
-  font-size: 22px;
-  padding: 7% 0% 7% 0%;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5% 0% 5% 0%;
 }
 
 .body-content {
@@ -71,7 +72,7 @@ a {
 }
 
 .color-change {
-  color: #50B9D3;
+  color: #257D93;
 }
 
 .sidebar {
@@ -96,7 +97,9 @@ a {
 }
 
 .sidebar-link {
-  color: #50B9D3;
+  color: #2C9AB7;
+  font-size: 18.66px;
+  font-weight: bold;
   margin-left: -10px;
 }
 
